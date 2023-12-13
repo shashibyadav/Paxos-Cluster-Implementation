@@ -1,0 +1,12 @@
+CleanUp thread started
+Server - 1 started
+Election thread started
+Shashi_1 -> Current Store:- {Name3=Dhruvil Jhala, Name4=Pratyusha Parashar, Name5=Amritanj Ayush, Name1=Shashi Bhushan Yadav, Name2=Priyanka Salla} ; Leader server Id:- 0 ; Server view of connections :- [Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7fff, -1769531251128463548]]]]], com.project.four.server.PaxosServer@d7b1517] ; Timestamp:- 1702431872877
+Shashi_2 -> Current Store:- {} ; Leader server Id:- 0 ; Server view of connections :- [Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7fff, -1769531251128463548]]]]], com.project.four.server.PaxosServer@d7b1517] ; Timestamp:- 1702431872896
+Manual -> Current Store:- {Name1=Shashi} ; Leader server Id:- 0 ; Server view of connections :- [Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7fff, -1769531251128463548]]]]], com.project.four.server.PaxosServer@d7b1517] ; Timestamp:- 1702431889125
+Server 1 elected as leader
+Server 0 elected as leader
+Manual -> Current Store:- {Name1=Shashi, Name2=Bhushan} ; Leader server Id:- 0 ; Server view of connections :- [Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d93181:-107f, 2875717931504748298]]]]], null] ; Timestamp:- 1702431915947
+Server Stop Called
+Child thread interrupt called
+Server Stopped

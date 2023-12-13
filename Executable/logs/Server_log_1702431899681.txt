@@ -1,0 +1,8 @@
+CleanUp thread started
+Server - 0 started
+Election thread started
+Server 0 elected as leader
+Manual -> Current Store:- {Name2=Bhushan} ; Leader server Id:- 0 ; Server view of connections :- [null, Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7ffe, 5063352454433288173]]]]]] ; Timestamp:- 1702431915946
+Server Stop Called
+Child thread interrupt called
+Server Stopped

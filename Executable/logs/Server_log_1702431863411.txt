@@ -1,0 +1,12 @@
+CleanUp thread started
+Election thread started
+Server - 0 started
+Shashi_1 -> Current Store:- {Name3=Dhruvil Jhala, Name4=Pratyusha Parashar, Name5=Amritanj Ayush, Name1=Shashi Bhushan Yadav, Name2=Priyanka Salla} ; Leader server Id:- 0 ; Server view of connections :- [com.project.four.server.PaxosServer@44e81672, Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7ffe, 5063352454433288173]]]]]] ; Timestamp:- 1702431872866
+Shashi_1 -> Current Store:- {Name3=Dhruvil Jhala, Name4=Pratyusha Parashar, Name5=Amritanj Ayush, Name1=Shashi Bhushan Yadav, Name2=Priyanka Salla} ; Leader server Id:- 0 ; Server view of connections :- [com.project.four.server.PaxosServer@44e81672, Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7ffe, 5063352454433288173]]]]]] ; Timestamp:- 1702431872874
+Shashi_2 -> Current Store:- {} ; Leader server Id:- 0 ; Server view of connections :- [com.project.four.server.PaxosServer@44e81672, Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7ffe, 5063352454433288173]]]]]] ; Timestamp:- 1702431872895
+Shashi_2 -> Current Store:- {} ; Leader server Id:- 0 ; Server view of connections :- [com.project.four.server.PaxosServer@44e81672, Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7ffe, 5063352454433288173]]]]]] ; Timestamp:- 1702431872895
+Manual -> Current Store:- {Name1=Shashi} ; Leader server Id:- 0 ; Server view of connections :- [com.project.four.server.PaxosServer@44e81672, Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7ffe, 5063352454433288173]]]]]] ; Timestamp:- 1702431889124
+Manual -> Current Store:- {Name1=Shashi} ; Leader server Id:- 0 ; Server view of connections :- [com.project.four.server.PaxosServer@44e81672, Proxy[ProposerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[192.168.154.1:54707](remote),objID:[-4cc9f015:18c60d8b2a1:-7ffe, 5063352454433288173]]]]]] ; Timestamp:- 1702431889125
+Server Stop Called
+Child thread interrupt called
+Server Stopped

@@ -1,0 +1,21 @@
+{
+  "electLeader": true,
+  "acceptRandomErrorProbability": 0.0,
+  "requestAttempts": 5,
+  "delay": 1000,
+  "allowNodeRestart": true,
+  "nodes": {
+    "addressList": [
+      {
+        "host": "localhost",
+        "port": 40001,
+        "serviceNameList": ["StoreService"]
+      },
+      {
+        "host": "localhost",
+        "port": 40002,
+        "serviceNameList": ["StoreService"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+CleanUp thread started
+Election thread started
+Server - 0 started
