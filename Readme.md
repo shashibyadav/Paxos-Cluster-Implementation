@@ -1,7 +1,5 @@
 ### Author :- Shashi Bhushan Yadav
 
-### Course :- CS6650 - Project 4
-
 This zip contains all the files for the project including Executable jars in folder named "Executables". There are two executables Server.jar and Client.jar for the project.
 
 ### **How to run Server Executable** :-
